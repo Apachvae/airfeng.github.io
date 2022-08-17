@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>首次搭建博客</title>
+    <url>/2022/08/17/bolg/</url>
+    <content><![CDATA[<h1 id="写点什么"><a href="#写点什么" class="headerlink" title="写点什么"></a>写点什么</h1><p style="text-indent:1em">
+&ensp;啊啊啊 <br>
+&emsp;哦哦哦 <br>
+</p>
+<p>
+哦哦哦
+</p>
+
+<h3 id="标题0"><a href="#标题0" class="headerlink" title="标题0"></a>标题0</h3><p>哎哎哎</p>
+<h3 id="标题1"><a href="#标题1" class="headerlink" title="标题1"></a>标题1</h3><p>呃呃呃</p>
+<h3 id="标题2"><a href="#标题2" class="headerlink" title="标题2"></a>标题2</h3><p>呀呀呀</p>
+<h4 id="标题2-0"><a href="#标题2-0" class="headerlink" title="标题2.0"></a>标题2.0</h4><p>嘀嘀嘀</p>
+]]></content>
+      <categories>
+        <category>airfeng test</category>
+      </categories>
+      <tags>
+        <tag>first</tag>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2022/08/17/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -19,19 +43,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>首次创建博客</title>
-    <url>/2022/08/17/bolg/</url>
-    <content><![CDATA[<h1 id="写点什么"><a href="#写点什么" class="headerlink" title="写点什么"></a>写点什么</h1><p>啊啊啊</p>
-<h3 id="没什么可以写"><a href="#没什么可以写" class="headerlink" title="没什么可以写"></a>没什么可以写</h3><p>啊啊啊</p>
-]]></content>
-      <categories>
-        <category>airfeng test</category>
-      </categories>
-      <tags>
-        <tag>first</tag>
-        <tag>test</tag>
-      </tags>
   </entry>
 </search>
